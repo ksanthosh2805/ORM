@@ -50,5 +50,7 @@ admin.site.register(Books_DB,Books_DBAdmin)
 ![output](./Screenshot%202024-03-04%20201426.png)
 
 
+
+
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
